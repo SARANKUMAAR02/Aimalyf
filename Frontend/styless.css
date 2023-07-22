@@ -1,0 +1,144 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#particles-js{
+	height: 100%;
+	background:none
+}
+.main{
+	width: 100%;
+	background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%),url("bgimg2.webp");
+	background-position: center;
+      background-attachment: fixed;
+	background-size: cover;
+      background-attachment: fixed;
+	height: 180vh;
+}
+.navbar{
+	width: 1000px;
+	height: 75px;
+	margin: auto;
+}
+.icon{
+	width: 200px;
+	float: left;
+	height:70px;
+}
+.logo{
+	color:powderblue;
+	font-size: 35px;
+	font-family: Arial;
+	float: left;
+	padding-top: 10px;
+	margin-top: 5px;
+}
+.menu{
+	width: 400px;
+	float: left;
+	height: 70px;
+}
+ul{
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items:left;
+}
+
+ul li{
+	list-style: none;
+	margin-left: 39px;
+	margin-top: 27px;
+	font-size: 14px;
+}
+ul li a{
+	text-decoration: none;
+	color:white;
+	float: left;
+	font-family: arial;
+	font-weight: bold;
+	transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+	color:powderblue;	
+}
+.search{
+	width: 200px;
+	float: right;	
+}
+.serch{
+	font-family: 'Roboto';	
+	width: 200px;
+	height: 40px;
+	background:transparent;
+	border:1px solid powderblue;
+	margin-top: 20px;
+	color: white;
+	border-right: none;
+	font-size: 12px;
+	float: right;
+	padding:10px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+.btn{
+	width: 100%;
+	float:right;
+	height:40px;
+	background:rgb(9, 216, 243);
+	border:2px solid powderblue;
+	margin-top: 12px;
+	color:rgb(0, 0, 0);
+	font-size: 12px;
+	border-bottom-right-radius: 5px;
+      cursor: pointer;
+}
+.btn:focus{
+	outline:none;
+}
+.search:focus{
+	outline:none;
+}
+.content{
+      padding-top: 5%;
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	color:#F5F5F5;
+	position: relative;
+}
+.p{
+      position: relative;
+      padding-top: 2%;
+      font-size: 20px;
+}
+.content .par{
+	padding-left: 20px;
+	padding-bottom: 25px;
+	font-family: arial,sans serif;
+	letter-spacing: 2px;
+	line-height: 30px;
+}
+.content h1{
+	font-size: 50px;
+	margin-top: 50px;
+
+}
+.quotes {
+      padding: 100px;
+	height: 100px;
+	width: 1000px;
+	position: relative;
+	float:right;
+	bottom: 0;
+	color:#F5F5F5;
+	font-style: italic;
+}
+.mail h4{
+	text-decoration: none;
+	color:white;
+	float: left;
+	font-family: arial;
+	font-weight: bold;
+	transition: 0.4s ease-in-out;
+}
