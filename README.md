@@ -1,6 +1,6 @@
 # Aimalyf
 
-Sometimes finding rare blood groups in emergency situations can be challenging. To overcome this situation, the Aimalyf website will be extremely helpful. 
+"Sometimes finding donors for rare blood groups in emergency situations is a challenging task. To overcome this situation, the Aimalyf website will be useful." 
 
 
 # Link 
